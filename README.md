@@ -24,6 +24,11 @@
 
 - ⚡ Fun fact **I am strong**
 
+ <p align="center">
+  <img url="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0aWuQPXoXrLkXTknM8GVBj&ust=1706467688419000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiFjtad_oMDFQAAAAAdAAAAABBF" alt="Alternatif Metin">
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imrnwk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrnwk" height="30" width="40" /></a>
@@ -37,3 +42,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrnwk&show_icons=true&locale=en&layout=compact" alt="imrnwk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrnwk&show_icons=true&locale=en" alt="imrnwk" /></p>
+
